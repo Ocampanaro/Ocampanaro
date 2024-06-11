@@ -2,8 +2,8 @@
 
 Sou estudante de tecnologia do JMA
 
-- estou aprendendo no Alura
+- Apendendo no Alura
 
-- estudando javascript
+
 
 
