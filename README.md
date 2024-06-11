@@ -2,7 +2,7 @@
 
 Sou estudante de tecnologia do JMA
 
-- Apendendo no Alura
+- Aprendendo no Alura
 
 
 
